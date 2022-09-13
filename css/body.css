@@ -1,0 +1,41 @@
+body {
+    font-size:large;
+    background-image: url(../img/faq.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-position:center;
+    color: navajowhite;
+    margin:50px;
+    padding-left:140px;
+    padding-right:100px;
+    text-transform:capitalize;
+}
+.parent{
+    position:relative;
+    
+}
+h1{
+    color:mediumspringgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2 {
+    color: palevioletred;
+}
+h3{
+
+    color: palevioletred;
+}
+a{
+    font-family:Algerian;
+}
+.figure img{
+    width:contain;
+    height:auto;
+    border-radius:10px
+}
+li {
+    
+    list-style: none;
+    text-transform: capitalize;
+}

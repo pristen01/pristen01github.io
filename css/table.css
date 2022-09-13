@@ -1,0 +1,91 @@
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size:large;
+    width: 100%;
+    height:auto;
+}
+
+td, th {
+    
+    text-align: left;
+    padding: 8px;
+    border: 1px solid white;
+   
+}
+
+tr, td {
+    background-color: black;
+}
+div{
+    text-align:center;
+   
+    font-size:x-large;
+    
+}
+hm{
+    text-align:center;
+}
+#myProgress {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 10px;
+}
+
+#myBar {
+    width: 10%;
+    height: 13px;
+    background-color: #04AA6D;
+    border-radius: 10px;
+}
+th.tp1 {
+    border-radius: 10px 10px 0px 0px;
+    border-style: none;
+    background-color: #808080;
+    text-align: center;
+    border-bottom-style: double;
+    border-bottom-color:black;
+    border-bottom-width:thick;
+}
+
+td.bt1 {
+    border-radius: 0px 0px 10px 10px;
+    border-style: none;
+    background-color: #FDF4DA;
+    text-align: center;
+    color: #000000;
+    text-align:center;
+
+}
+th.th1 {
+    border-radius: 10px 10px 0px 0px;
+    border-style: none;
+    background-color:beige;
+    text-align: center;
+    border-bottom-style: double;
+    border-bottom-color: black;
+    border-bottom-width: thick;
+}
+
+td.td1 {
+    border-radius: 0px 0px 10px 10px;
+    border-style: none;
+    background-color:paleturquoise;
+    text-align: center;
+    color: #000000;
+    text-align: center;
+    
+}
+th.th4 {
+    border-radius: 10px 10px 10px 10px;
+    border-style: none;
+    background-color:darkblue crimson;
+    text-align: center;
+    
+    border-bottom-color: mediumturquoise;
+    color:black;
+    margin-left:50px;
+    margin-right:50px;
+    

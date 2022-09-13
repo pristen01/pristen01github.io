@@ -1,9 +1,11 @@
 #profile {
-    border-radius: 2000px;
-    width: 148.4375px;
-    height: 148.4375px;
+    border-radius: 1000px;
+    width: 248.4375px;
+    height: 248.4375px;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+  
+   
 }

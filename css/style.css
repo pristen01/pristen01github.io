@@ -3,8 +3,9 @@
 }
 
 img {
-    width: 500px;
-    height: auto;
+    width: 600px;
+    height: 600px;
+    align-content:center;
 }
 
 .nav ul {
@@ -12,8 +13,9 @@ img {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: Grey;
+    background-color: mediumaquamarine;
     text-transform: uppercase;
+    border-radius: 10px
 }
 
     .nav ul li {
@@ -26,21 +28,54 @@ img {
             display: block;
             padding: 8px;
             text-align: center;
+            color:black;
             padding: 14px 16px;
             text-decoration: none;
             float: right;
         }
 
             .nav ul li a:hover {
-                background-color: #111;
+                background-color: dodgerblue;
                 border-radius:25px;
             }
 
 .nav img {
-    height:1em;
+    height:3em;
     width:auto;
 }
 
 .active {
-    background-color: deepskyblue;
+    background-color: pink;
+
 }
+a{
+    color:palevioletred
+}
+
+.sidenav {
+
+    padding:10px;
+    height: 50%;
+    width: 150px;
+    position:fixed;
+    z-index: 1;
+    top: 50px;
+    left: 0px;
+    background-color: mediumaquamarine;
+    overflow-x: hidden;
+   
+    
+}
+
+    .sidenav  a {
+        text-decoration: none;
+        font-size:large;
+        color:black;
+        display: block;
+        padding-block:6px 9px;
+    
+    }
+
+        .sidenav a:hover {
+            color:deepskyblue;
+        }
