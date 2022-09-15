@@ -27,7 +27,9 @@ h3{
     color: palevioletred;
 }
 a{
-    font-family:Algerian;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:larger;
+   
 }
 .figure img{
     width:contain;

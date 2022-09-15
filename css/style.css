@@ -13,7 +13,7 @@ img {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: mediumaquamarine;
+    background-color:white;
     text-transform: uppercase;
     border-radius: 10px
 }
@@ -29,18 +29,18 @@ img {
             padding: 8px;
             text-align: center;
             color:black;
-            padding: 14px 16px;
+            padding: 14px;
             text-decoration: none;
             float: right;
         }
 
             .nav ul li a:hover {
-                background-color: dodgerblue;
+                background-color:aqua;
                 border-radius:25px;
             }
 
 .nav img {
-    height:3em;
+    height:1.5em;
     width:auto;
 }
 
@@ -61,15 +61,16 @@ a{
     z-index: 1;
     top: 50px;
     left: 0px;
-    background-color: mediumaquamarine;
+    background-color: white;
     overflow-x: hidden;
+    font-size:24px;
+    border-radius:0px 10px 10px 0px;
    
     
 }
 
     .sidenav  a {
         text-decoration: none;
-        font-size:large;
         color:black;
         display: block;
         padding-block:6px 9px;
@@ -78,4 +79,7 @@ a{
 
         .sidenav a:hover {
             color:deepskyblue;
+            background-color:dodgerblue;
+            border-radius:25px;
+            color:lightpink;
         }

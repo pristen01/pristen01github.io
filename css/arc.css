@@ -1,0 +1,45 @@
+﻿.arc1 {
+    padding: 5px;
+    background-color:#fbebfb;
+    margin-left:150px;
+    margin-right:150px;
+    font-size:20px;
+    border-radius:10px;
+}
+
+  .arc1 h1{
+        margin: 10px;
+        padding: 5px;
+    }
+
+.arc3 {
+    background:gray;
+    padding:10px;
+    margin:10px;
+    color:white;
+   
+}
+
+.arc5 {
+    background: #f5e1a3;
+    padding: 10px;
+    margin: 10px;
+    color:black;
+}
+.arc6 {
+    background: #746363;
+    padding: 10px;
+    margin: 10px;
+    color:black;
+}
+.arc9 {
+    background: #677374;
+    padding: 10px;
+    margin:10px;
+    
+}
+h1, h2 {
+    text-transform: capitalize;
+    color: hotpink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
