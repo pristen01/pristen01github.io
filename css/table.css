@@ -64,7 +64,7 @@ td.bt1 {
 th.th1 {
     border-radius: 10px 10px 0px 0px;
     border-style: none;
-    background-color:beige;
+    background-color: #808080;
     text-align: center;
     border-bottom-style: double;
     border-bottom-color: black;
@@ -74,88 +74,98 @@ th.th1 {
 td.td1 {
     border-radius: 0px 0px 10px 10px;
     border-style: none;
-    background-color:paleturquoise;
+    background-color: #FDF4DA;
     text-align: center;
     color: #000000;
     text-align: center;
-    
 }
 th.th4 {
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 0px 0px;
     border-style: none;
-    background-color: darkblue crimson;
+    background-color: #808080;
     text-align: center;
-    border-bottom-color: mediumturquoise;
-    color: black;
-    margin-left: 50px;
-    margin-right: 50px;
+    border-bottom-style: double;
+    border-bottom-color: black;
+    border-bottom-width: thick;
 }
 
-  
+
 
 th.th3 {
     border-radius: 10px 10px 0px 0px;
-    border-style:none;
-    background-color:lightcoral;
+    border-style: none;
+    background-color: #808080;
     text-align: center;
-    border-bottom-color: red;
-    border-bottom-width:thick;
-    border-bottom-style:solid;
-    
+    border-bottom-style: double;
+    border-bottom-color: black;
+    border-bottom-width: thick;
+    ;
 }
 td.td5 {
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 0px 10px 10px;
     border-style: none;
-    background-color: lightcyan;
+    background-color: #FDF4DA;
     text-align: center;
-    border-bottom-color: mediumturquoise;
-    color: black;
-    margin-left: 50px;
-    margin-right: 50px;
+    color: #000000;
+    text-align: center;
 }
 table.vs{
     background-color:aliceblue;
 }
 
+div.back {
+    text-align: left;
+}
+
 div.btn button {
     transition-duration: 0.4s;
     border-radius: 7px;
-    padding:4px;
-    margin:10px
+    padding: 4px;
+    margin: 10px;
+    width:50%;
+
+}
+div.back button {
+    background-color:#875959;
+    border-radius:15px;
+    color:antiquewhite;
+    padding: 10px;
+    font-size: 25px;
 }
 
     div.btn button.b2:hover {
-        background-color: crimson; 
+        background-color:crimson; 
         color: white;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     div.btn button.b1:hover {
         background-color: #4CAF50; /* Green */
-        color:antiquewhite;
-        font-family:'Agency FB'
+        color: antiquewhite;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
     }
     div.btn button.b3:hover {
         background-color: aquamarine;
-        color:black;
-        font-family:Algerian;
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     div.btn button.b4:hover {
         background-color: palevioletred;
-        color:darkviolet;
-        font-family:Bahnschrift;
+        color: darkviolet;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     div.btn button.b5:hover {
         background-color: yellowgreen;
-        color:orangered;
-        font-family:'Bell MT'
+        color: orangered;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     div.btn button.b6:hover {
         background-color: orange;
         color: hotpink;
-        font-family:'Cascadia Code';
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     div.btn button.b7:hover {
-        background-color:lightsalmon;
-        color:black;
-        font-family: 'Cascadia Code';
+        background-color: lightsalmon;
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
