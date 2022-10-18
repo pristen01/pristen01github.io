@@ -1,6 +1,6 @@
 body {
     font-size: large;
-    background-image: url(../img/faq.jpg);
+    background-image: url(../img/bgphoto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -9,7 +9,8 @@ body {
     margin: 100px;
     padding-left: 140px;
     padding-right: 100px;
-    text-transform: capitalize;
+    text-transform: none;
+    
 }
 .parent{
     position:relative;
